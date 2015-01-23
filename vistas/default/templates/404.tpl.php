@@ -1,3 +1,3 @@
-<h1>Page not found</h1>
-<p>Sorry, we could not find the page or file you were looking for, please return to the home page and try again.</p>
+<h1>Pagina no encontrada</h1>
+<p>Lo sentimos, pero no hemos encontrado la p&aacute;gina o el archivo que estas buscando, por favor regrese al inicio e intentelo de nuevo.</p>
 <!-- 404 error -->
